@@ -6,19 +6,19 @@
 	var projectsArray = [
 		{
 			"id": "projectTykOperator",
-			"url": "https://github.com/TykTechnologies/tyk-operator"
+			"url": "https://github.com/chiranjiv09/TFMS-p1-project.git"
 		},
 		{
 			"id": "projectCloudixia",
-			"url": "https://ajtima.com"
+			"url": "https://github.com/chiranjiv09/TFMS-p1-project.git"
 		},
 		{
 			"id": "projectServ",
-			"url": "https://www.getserv.io"
+			"url": "https://docs.google.com/presentation/d/1AtN8N3Kes1SAXtFRIaWVNX3PgaN9N-zB/edit?usp=share_link&ouid=107955332262828961699&rtpof=true&sd=true"
 		},
 		{
 			"id": "projectSedkodes",
-			"url": "https://www.youtube.com/channel/UCXR-k7wwwhdovpXXkRitJ_g"
+			"url": "https://github.com/chiranjiv09?tab=repositories"
 		}
 	]
 
